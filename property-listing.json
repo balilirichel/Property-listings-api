@@ -145,10 +145,7 @@
     "status": "For Sale",
     "features": ["Modern Design", "Carport", "Security System"],
     "image_url": "https://images.unsplash.com/photo-1600585152930-93c06ef216d3"
-  }
-]
-
-[
+  },
   {
     "id": 11,
     "property_name": "Azure Cliff House",
@@ -294,10 +291,7 @@
     "status": "For Sale",
     "features": ["Smart Home", "Near Mall", "Pet Friendly"],
     "image_url": "https://images.unsplash.com/photo-1590490360183-54bc1c6e1c2d"
-  }
-]
-
-[
+  },
   {
     "id": 21,
     "property_name": "Crystal Bay Villa",
